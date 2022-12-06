@@ -1612,6 +1612,11 @@ nav > ul > li:last-child:hover .mega-menu {
   font-weight: bold;
   font-size: 17px;
 }
+@media (max-width: 416px) {
+  .footer .copy-right {
+    font-size: 12px;
+  }
+}
 /* End Footer */
 /* Start Animation */
 @keyframes title {
